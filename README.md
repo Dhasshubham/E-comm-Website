@@ -1,12 +1,30 @@
-# React + Vite
+# 🛒 E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive e-commerce frontend built using **React**, **Vite**, and **Tailwind CSS**. This project showcases a product catalog with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+**Author:** Shubham Krishna Dhas  
+**Email:** [shubhamdhas123@gmail.com](mailto:shubhamdhas123@gmail.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **GitHub Repository:** [https://github.com/Dhasshubham/E-comm-Website](https://github.com/Dhasshubham/E-comm-Website)
+- **Live Demo:** *(Add your deployed link here)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 📦 **Product Listing:** Display of products with images, prices, and ratings.
+- 🧭 **Sidebar Navigation:** Easy access to product categories.
+- 🖼️ **Banner Section:** Highlighting featured products or promotions.
+- 🔗 **Footer:** Includes company information and social media links.
+- 📱 **Responsive Design:** Optimized for mobile, tablet, and desktop views.
+- ⚡ **Fast Performance:** Built with React and Vite for quick load times.
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Dhasshubham/E-comm-Website.git
+cd E-comm-Website
