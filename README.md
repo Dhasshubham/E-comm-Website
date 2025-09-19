@@ -6,7 +6,7 @@ A modern, responsive e-commerce frontend built using **React**, **Vite**, and **
 **Email:** [shubhamdhas123@gmail.com](mailto:shubhamdhas123@gmail.com)
 
 - **GitHub Repository:** [https://github.com/Dhasshubham/E-comm-Website](https://github.com/Dhasshubham/E-comm-Website)
-- **Live Demo:** *(Add your deployed link here)*
+- **Live Demo:** [https://e-comm-website-7xul.vercel.app/](https://e-comm-website-7xul.vercel.app/)
 
 ---
 
