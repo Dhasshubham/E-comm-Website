@@ -131,7 +131,6 @@ const Sidebar = () => {
         <div className="text-center bg-white p-4 rounded-lg shadow-sm hover:text-black-50">
           MORE
         </div>
-        
       </aside>
 
       {isOpen && (

@@ -1,8 +1,11 @@
+import { useNavigate } from "react-router-dom";
 import bannerShoe from "../assets/nike.png";
 
 const Banner = () => {
+  const navigate = useNavigate();
+
   return (
-    <div className="bg-blue-500 rounded-xl px-7 py-4 mb-6 flex flex-col md:flex-row justify-between items-center text-white shadow-lg ">
+    <div className="bg-blue-500 rounded-xl px-7 py-4 mb-6 flex flex-col md:flex-row justify-between items-center text-white shadow-lg">
       <div className="max-w-md text-center md:text-left">
         <h1 className="text-3xl md:text-4xl font-extrabold">
           Puma Men Running Shoes
@@ -35,7 +38,10 @@ const Banner = () => {
           <button className="px-6 py-3 bg-orange-400 hover:bg-orange-500 text-white rounded-lg font-semibold shadow-md transition">
             BUY NOW
           </button>
-          <button className="px-6 py-3 bg-white hover:bg-gray-200 text-blue-600 rounded-lg font-semibold shadow-md transition">
+          <button
+            onClick={() => navigate("/view-more")}
+            className="px-6 py-3 bg-white hover:bg-gray-200 text-blue-600 rounded-lg font-semibold shadow-md transition"
+          >
             VIEW DETAILS
           </button>
         </div>
